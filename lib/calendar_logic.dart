@@ -1,7 +1,5 @@
 library calendar_logic;
 
-import 'package:flutter/gestures.dart';
-
 /// A Calculator.
 class CalendarBuilder {
   /// [date]が表す日が所属するカレンダーを生成
