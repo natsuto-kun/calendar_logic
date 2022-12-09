@@ -3,7 +3,7 @@ library calendar_logic;
 import 'package:flutter/gestures.dart';
 
 /// A Calculator.
-class Calculator {
+class CalendarBuilder {
   /// [date]が表す日が所属するカレンダーを生成
   List<List<int?>> build(DateTime date) {
     final calendar = <List<int?>>[];
